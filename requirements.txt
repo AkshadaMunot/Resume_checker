@@ -1,0 +1,10 @@
+streamlit
+pymupdf           # PyMuPDF
+docx2txt
+pdfplumber
+spacy
+pandas
+sentence-transformers
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
